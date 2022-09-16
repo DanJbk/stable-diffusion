@@ -1,1 +1,3 @@
 models/ldm/stable-diffusion-v1/model.ckpt
+*.pyc 
+optimizedSD/__pycache__/optimUtils.cpython-38.pyc
