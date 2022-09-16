@@ -4,4 +4,9 @@ optimizedSD/__pycache__/optimUtils.cpython-38.pyc
 logs/txt2img_gradio_logs.csv
 logs/inpaint_gradio_logs.csv
 logs/txt2img_logs.csv
-outputs/inpaint-samples/a_beautiful_woman/seed_13006_00000.png
+outputs/*
+latent_diffusion.egg-info/dependency_links.txt
+latent_diffusion.egg-info/PKG-INFO
+latent_diffusion.egg-info/requires.txt
+latent_diffusion.egg-info/SOURCES.txt
+latent_diffusion.egg-info/top_level.txt
